@@ -1,10 +1,10 @@
-🌦️ Weather Forecast Web Application
+#🌦️ Weather Forecast Web Application
 
 An interactive, responsive web application for viewing current weather, hourly updates, and 5-day forecasts using real-time data.
 The project focuses on clean UI, accurate weather visualization, and a smooth user experience.
 
-🚀 Features
-🌍 Location-Based Weather
+### 🚀 Features
+### 🌍 Location-Based Weather
 
 Fetch weather using current location (Geolocation API)
 
@@ -12,17 +12,17 @@ Default fallback location (New Delhi) if permission is denied
 
 Manual city search support
 
-⏱️ Forecast Details
+###⏱️ Forecast Details
 
 Current weather (temperature, condition, wind, humidity)
 
 Hourly forecast (next 24 hours)
 
-5-day weather forecast
+### 5-day weather forecast
 
 Weather icons fetched dynamically from OpenWeatherMap
 
-📊 Weather Metrics
+### 📊 Weather Metrics
 
 Temperature (°C)
 
@@ -32,7 +32,7 @@ Weather description & icons
 
 Day-wise max temperature
 
-🎨 UI / UX
+### 🎨 UI / UX
 
 Clean, modern layout
 
@@ -44,7 +44,7 @@ Responsive design (desktop & mobile)
 
 Accessible labels (aria-*)
 
-🌙 Theme Support
+### 🌙 Theme Support
 
 Dark / Light mode toggle
 
@@ -52,7 +52,7 @@ Theme preference stored in localStorage
 
 Global theme applied using body class
 
-🧠 Why this project?
+### 🧠 Why this project?
 
 Weather applications are a great way to combine:
 
@@ -66,7 +66,7 @@ React hooks and context
 
 This project helps understand how frontend applications interact with external APIs, manage global state, and present dynamic data cleanly.
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 Frontend: React (Vite)
 
