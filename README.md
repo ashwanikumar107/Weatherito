@@ -1,4 +1,4 @@
-#🌦️ Weather Forecast Web Application
+# 🌦️ Weather Forecast Web Application
 
 An interactive, responsive web application for viewing current weather, hourly updates, and 5-day forecasts using real-time data.
 The project focuses on clean UI, accurate weather visualization, and a smooth user experience.
